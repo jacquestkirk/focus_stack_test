@@ -1,0 +1,1 @@
+Stolen from https://github.com/PetteriAimonen/focus-stack/tree/master/examples
